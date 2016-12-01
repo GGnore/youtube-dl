@@ -876,6 +876,7 @@ from .streamable import StreamableIE
 from .streamcloud import StreamcloudIE
 from .streamcz import StreamCZIE
 from .streetvoice import StreetVoiceIE
+from .sun import SunExtractorIE
 from .sunporno import SunPornoIE
 from .svt import (
     SVTIE,
